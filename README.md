@@ -1,9 +1,13 @@
 <html>  
 <head>  
 <script type = "text/javascript">  
-function myfunction() {   
+var userInput = parseInt("Enter your name: ")
+         
+         function myfunction() {
+         
 alert("how are you");  
          }  
+         let color = readline();
          console.log("hi");
 </script>  
 </head>  
