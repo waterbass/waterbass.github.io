@@ -4,6 +4,7 @@
 function myfunction() {   
 alert("how are you");  
          }  
+         console.log("hi");
 </script>  
 </head>  
 <body>  
