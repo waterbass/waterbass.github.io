@@ -1,8 +1,9 @@
 <html>  
 <head>  
 <script type = "text/javascript">  
-var userInput = parseInt("Enter your name: ")
-         
+var userInput = parseInt("Enter your name: ");
+         var userInput1 = prompt ("Enter your name: ");
+document.write(userInput1);
          function myfunction() {
          
 alert("how are you");  
