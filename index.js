@@ -1,7 +1,5 @@
-<h1> hello test 2</h1>
 
 <script src="script.js" type="text/javascript">
   let variable = "green";
   console.log(variable);
 
-</script>
