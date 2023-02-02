@@ -1,15 +1,8 @@
 <html>  
 <head>  
 <script type = "text/javascript">  
-var userInput = parseInt("Enter your name: ");
-         var userInput1 = prompt ("Enter your name: ");
-document.write(userInput1);
-         function myfunction() {
-         
-alert("how are you");  
-         }  
-         let color = readline();
-         console.log("hi");
+let color = "green";
+         console.log = (green);
 </script>  
 </head>  
 <body>  
