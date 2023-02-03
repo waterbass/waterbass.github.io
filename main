@@ -1,13 +1,11 @@
 <html>
-
-<script src="script.js" type="text/javascript">
-  let variable = "green";
-  console.log(variable);
-
-<\script>
-  <\html>
-<head>
+  <head>
+ <script type = "text"/javascript" src="script.js"></script> 
 </head>
 <body>
-  <script src="script.js"></script>
+                                                  <p> hi click this </p>
+                                                  
+                                                  <input type = "button" onclick = "myfunction()" value = "Display">
 </body>
+
+                                                  </html>
