@@ -3,7 +3,12 @@
  <script type = "text"/javascript" src="script.js"></script> 
 </head>
 <body>
-                                                  <p> hi click this </p>
+                                                  <script>
+                                                  let var ="name";
+console.log(var);
+</script>
+                                                  
+                                                  <p> hi click this test 2 </p>
                                                   
                                                   <input type = "button" onclick = "myfunction()" value = "Display">
 </body>
